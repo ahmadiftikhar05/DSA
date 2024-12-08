@@ -1,0 +1,4 @@
+﻿  Task.cpp
+C:\Users\Ahmad\source\repos\DSA Lab 3\DSA Lab 3\Task.cpp(51,21): warning C4101: 'result': unreferenced local variable
+C:\Users\Ahmad\source\repos\DSA Lab 3\DSA Lab 3\Task.cpp(45,1): warning C4715: 'Stack<char>::pop': not all control paths return a value
+  DSA Lab 3.vcxproj -> C:\Users\Ahmad\source\repos\DSA Lab 3\x64\Debug\DSA Lab 3.exe

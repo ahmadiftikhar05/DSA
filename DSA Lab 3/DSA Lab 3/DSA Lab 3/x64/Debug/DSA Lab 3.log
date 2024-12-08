@@ -1,0 +1,3 @@
+﻿  Task.cpp
+C:\Users\Ahmad\source\repos\DSA Lab 3\DSA Lab 3\Task.cpp(39,1): warning C4715: 'Stack::pop': not all control paths return a value
+  DSA Lab 3.vcxproj -> C:\Users\Ahmad\source\repos\DSA Lab 3\DSA Lab 3\x64\Debug\DSA Lab 3.exe
